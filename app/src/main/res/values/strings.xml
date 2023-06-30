@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical 2</string>
+    <string name="text1">text</string>
+    <string name="lorem_ipsum_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="btn2">Follow</string>
+    <string name="btn3">Message</string>
+</resources>
