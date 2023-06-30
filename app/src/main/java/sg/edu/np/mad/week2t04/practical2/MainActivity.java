@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         FollowButton = findViewById(R.id.btn2);
 
         // Load data from the User object
-        User user = new User("Hello World!", "Lorem ipsum dolor sit amet", 1, false); // Replace this with your own code to get the User object
+        User user = new User("Bryan", "Lorem ipsum dolor sit amet", 1, false); // Replace this with your own code to get the User object
         Name.setText(user.getName());
         Description.setText(user.getDescription());
 
